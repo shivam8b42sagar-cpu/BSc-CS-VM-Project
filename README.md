@@ -19,3 +19,18 @@ This project involves creating and configuring a virtual machine environment to 
 
 ## 🚀 How to Use
 1. Clone this repository:
+   2. Open the project folder.  
+3. Follow the documentation or code instructions as needed.
+
+## 🎯 Purpose of the Project
+This VM setup was created as part of my academic learning to:
+- Understand virtual machine environments  
+- Run isolated coding projects  
+- Practice system-level operations safely  
+
+## 📞 Contact
+If you want to know more about this project, feel free to reach out.
+9528000540
+---
+
+
