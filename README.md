@@ -36,8 +36,6 @@ sudo systemctl start apache2
 curl http://localhost
 ---
 
-## 3️⃣ Hello World Website
 echo "<h1>Hello World from Apache on AWS EC2!</h1>" | sudo tee /var/www/html/index.html
 sudo systemctl restart apache2
 
----
